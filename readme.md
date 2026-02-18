@@ -12,6 +12,7 @@ This application allows users to:
 - Run the entire system using Docker
 
 # 🚀 Tech Stack
+```
 
 | Backend       |  Python 3.11, Django, Django REST Framework   |
 |               |   Django Filter, PostgreSQL,                  |
@@ -19,7 +20,8 @@ This application allows users to:
 |               |                                               |
 |Frontend       |     React, Axios ,CSS                         |
 |               |                                               |
-|Infrastructure | Docker, Docker Compose                        |                        
+|Infrastructure | Docker, Docker Compose                        |
+```                     
 
 
 
