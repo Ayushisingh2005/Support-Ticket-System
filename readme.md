@@ -21,7 +21,7 @@ This application allows users to:
 |               |                                               |
 |Infrastructure | Docker, Docker Compose                        |                        
 
----
+
 
 # 📁 Project Structure
 
