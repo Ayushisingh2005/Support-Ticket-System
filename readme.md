@@ -11,8 +11,6 @@ This application allows users to:
 - View aggregated dashboard statistics
 - Run the entire system using Docker
 
----
-
 # 🚀 Tech Stack
 
 | Backend       |  Python 3.11, Django, Django REST Framework   |
